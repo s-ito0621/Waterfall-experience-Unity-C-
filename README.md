@@ -3,7 +3,7 @@
 # ファイルとフォルダの説明
 ## Arduino関連/
 * *UduinoCytronEZMP3*
-    * 頭と両肩に振動を与えるArduinoのマイコンの制御に使うライブラリのプログラム
+    * 頭と両肩に振動を与えるBass shakerに音楽を再生するためのライブラリのプログラム
 * *UduinoTakiVrHead*
     * 頭に振動を与えるArduinoのマイコンに書き込むプログラム
 * *UduinoTakiVrLR*
@@ -16,13 +16,11 @@
 ※Uduinoを使用する場合「Uduinoライブラリ」を絶対に購入しておいてください。
 
 ## インポート方法
-「TakiVR.unitypackage」はUnityのプロジェクトパッケージです。このリンクに従ってimportしてください。
-実験のシーンは「/Scenes/TakiVR」です。
-シュミレーターモードなのでVRでは動きません。シュミレーターの操作方法はこのリンクに従ってください。
-VRで動かしたい場合
-TakiVRシーンのHierarchy上にある「XR Device Simulator」オブジェクトをこのリンクのように無効化
-このリンクのように「Initialize XR on Startup」のチェックボックスを”付けてください”
-「Arduino関連.zip」arduino・Uduino用のプログラムも添付しておきます。
-「UduinoCytronEZMP3」フォルダはこのマイコン用のライブラリです
-「UduinoTakiVrHead」フォルダは頭用のマイコンに書き込んだものです。
-「UduinoTakiVrLR」フォルダは両肩用のマイコンに書き込んだものです。
+
+1. 「TakiVR.unitypackage」はUnityのプロジェクトパッケージです。[このリンク](https://kan-kikuchi.hatenablog.com/entry/Unitypackage)に従ってimportしてください。
+2.  実験のシーンは「/Scenes/TakiVR」です。
+3.  シュミレーターモードなのでVRでは動きません。シュミレーターの操作方法は[このリンク](https://tech.framesynthesis.co.jp/unity/xr/#:~:text=%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82-,%E3%83%98%E3%83%83%E3%83%89%E3%82%BB%E3%83%83%E3%83%88%E3%81%AA%E3%81%97%E3%81%A7XR%20Origin%E3%82%92%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF,-XR%20Device%20Simulator)に従ってください。
+## VRで動かしたい場合
+1.  TakiVRシーンのHierarchy上にある「XR Device Simulator」オブジェクトを[このリンク](https://tech.pjin.jp/blog/2021/03/31/unity_gameobject_component_on-off/)のように無効化
+2.  [このリンク]()のように「Initialize XR on Startup」のチェックボックスを”付けてください”
+
