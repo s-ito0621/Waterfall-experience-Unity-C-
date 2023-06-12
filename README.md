@@ -1,8 +1,21 @@
 # Waterfall-experience-Unity-C-
 
+# ファイルとフォルダの説明
+## Arduino関連/
+* *UduinoCytronEZMP3*
+    * 頭と両肩に振動を与えるArduinoのマイコンの制御に使うライブラリのプログラム
+* *UduinoTakiVrHead*
+    * 頭に振動を与えるArduinoのマイコンに書き込むプログラム
+* *UduinoTakiVrLR*
+    * 両肩に振動を与えるArduinoのマイコンに書き込むプログラム。
+## TakiVR
+* *TakiVR.unitypackage*
+    *Unityのプロジェクト(重すぎてUploadしていないので、必要であればぜひ。。。)
 
+# 使用方法
 ※Uduinoを使用する場合「Uduinoライブラリ」を絶対に購入しておいてください。
-インポート方法
+
+## インポート方法
 「TakiVR.unitypackage」はUnityのプロジェクトパッケージです。このリンクに従ってimportしてください。
 実験のシーンは「/Scenes/TakiVR」です。
 シュミレーターモードなのでVRでは動きません。シュミレーターの操作方法はこのリンクに従ってください。
