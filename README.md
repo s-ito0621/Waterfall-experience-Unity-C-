@@ -10,7 +10,7 @@
     * 両肩に振動を与えるArduinoのマイコンに書き込むプログラム。
 ## TakiVR
 * *TakiVR.unitypackage*
-    *Unityのプロジェクト(重すぎてUploadしていないので、必要であればぜひ。。。)
+    * Unityのプロジェクト(重すぎてUploadしていないので、必要であればぜひ。。。)
 
 # 使用方法
 ※Uduinoを使用する場合「Uduinoライブラリ」を絶対に購入しておいてください。
