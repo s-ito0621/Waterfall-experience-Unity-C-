@@ -24,9 +24,7 @@
 1.  TakiVRシーンのHierarchy上にある「XR Device Simulator」オブジェクトを[このリンク](https://tech.pjin.jp/blog/2021/03/31/unity_gameobject_component_on-off/)のように無効化
 2.  [このリンク](https://yotiky.hatenablog.com/entry/2021/12/06/unity_xrpluginmanagement-runineditor)のように「Initialize XR on Startup」のチェックボックスを”付けてください”
 ## Demo動画
-
-
-
-
+### VR
 https://github.com/s-ito0621/Waterfall-experience-Unity-C-/assets/131466870/94e24be2-49ce-4595-a320-33010f63461c
 
+### 装着
