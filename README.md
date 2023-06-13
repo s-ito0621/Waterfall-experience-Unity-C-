@@ -33,3 +33,7 @@ https://github.com/s-ito0621/Waterfall-experience-Unity-C-/assets/131466870/cca0
 
 
 ### 装着
+
+
+https://github.com/s-ito0621/Waterfall-experience-Unity-C-/assets/131466870/2ca4dc5f-24c4-4c42-9dbe-455144144ab2
+
