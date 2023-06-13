@@ -26,5 +26,10 @@
 ## Demo動画
 ### VR
 https://github.com/s-ito0621/Waterfall-experience-Unity-C-/assets/131466870/94e24be2-49ce-4595-a320-33010f63461c
+### システム構成
+
+https://github.com/s-ito0621/Waterfall-experience-Unity-C-/assets/131466870/cca08dc9-dc1a-4a82-86a6-57410e928985
+
+
 
 ### 装着
